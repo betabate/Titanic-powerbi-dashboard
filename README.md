@@ -12,7 +12,7 @@
 ## 🖥️ Dashboard Preview
 *(ภาพตัวอย่างหน้าตา Dashboard และการโต้ตอบผ่านตัวกรองข้อมูล)*
 
-![Dashboard Overview](assets/dashboard_overview.png)
+![Dashboard Overview](titanic_report.pdf)
 
 <!-- หากมีไฟล์ GIF ให้ลบเครื่องหมายคอมเมนต์ด้านล่างออก -->
 <!-- ![Interactive Demo](assets/demo_interaction.gif) -->
