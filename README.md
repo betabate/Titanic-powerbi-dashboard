@@ -51,5 +51,4 @@
 ## 📂 Repository Structure
 * `titanic_report.pbix` - ไฟล์ต้นฉบับ Power BI Desktop (สามารถดาวน์โหลดไปเปิดใช้งานได้ทันที)
 * `titanic_report.pdf` - ไฟล์รายงานรูปแบบ PDF
-* `data/train.csv` - ชุดข้อมูลต้นฉบับที่ใช้ในการวิเคราะห์
-* `assets/` - รูปภาพประกอบของ Dashboard
+* `dataset.csv` - ชุดข้อมูลต้นฉบับที่ใช้ในการวิเคราะห์
